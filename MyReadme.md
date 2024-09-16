@@ -1,13 +1,13 @@
 
 # atualizar e instalar as bibliotecas
-apt update && apt upgrade
-apt install git -y
-apt install build-essential -y
-apt install libssl-dev -y
-apt install libgmp-dev -y
+sudo apt update && apt upgrade
+sudo apt install git -y
+sudo apt install build-essential -y
+sudo apt install libssl-dev -y
+sudo apt install libgmp-dev -y
 
 # clonar o repositorio
-https://github.com/luelsilva/keyhunt
+git clone https://github.com/luelsilva/keyhunt
 
 # entrar na pasta
 cd keyhunt
