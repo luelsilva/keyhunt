@@ -25,7 +25,7 @@ https://www.youtube.com/live/-RI2-6y7GWE?si=BkucmFqKlW8ibJLp&t=1178
 https://privatekeys.pw/puzzles/bitcoin-puzzle-tx
 
 # comandos do cacachave
-./keyhunt -m address -f tests/67.txt -b 67 -l compress -s -t 20 -n 1024
+./keyhunt -m address -f tests/67.txt -b 67 -l compress -s -t 4 -n 1024 -R
 ./keyhunt -m address -f tests/66.txt -r:38.....:3f.....  -l compress -q -s 10 -t 20 -e
 
 //para cer o arquivo readme em portugues
