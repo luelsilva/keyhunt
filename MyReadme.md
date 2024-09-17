@@ -58,15 +58,18 @@ https://youtu.be/0ghYopg3j9I?si=jubRH5WqfDd1Rwix&t=184
 
 // instalar o keyhunter  ( https://github.com/albertobsd/keyhunt  )
 
-1 - instalar o WSL    -> https://youtu.be/shA94P304xE?si=XdRBW7u9kDl8jP1g&t=117
+# como habilitar o Linux no windows
+https://youtu.be/shA94P304xE?si=XdRBW7u9kDl8jP1g&t=117
+
 	1 - abrir o painel de controle;
 	2 - clicar em programas;
 	3 - clicar em ativar ou desativar recursos do windows
-	4 - selecionar Windows Subsystem for Linux (WSL) (Subsistemas Windows pa Linux)
+	4 - selecionar Windows Subsystem for Linux (WSL) (Subsistemas Windows para Linux)
 	5 - selecionar Virtual Machine Platform (Plataforma da máquina virtual)
 	6 - selecionar Windows Hipervisor Platform (Plataforma do windows hipervisor)
+	7 - reiniciar o computador
 
-2 - reiniciar o computador
+
 
 
 
