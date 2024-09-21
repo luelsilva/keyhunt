@@ -1,2 +1,1 @@
-cd keyhunt/
 ./keyhunt -m address -f tests/67to68.txt -r 70000000000000000:100000000000000000 -s 10 -t 4 -R -n 65536
