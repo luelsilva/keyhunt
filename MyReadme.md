@@ -1,6 +1,6 @@
 
 # atualizar e instalar as bibliotecas
-sudo apt update && apt upgrade
+sudo apt update && sudo apt upgrade
 sudo apt install git -y
 sudo apt install build-essential -y
 sudo apt install libssl-dev -y
