@@ -1,1 +1,16 @@
-./keyhunt -m address -f tests/67to68.txt -r 70000000000000000:100000000000000000 -s 10 -t 4 -R -n 65536
+
+### comando para achar o puzzle 67
+./keyhunt -m address -f tests/67.txt -r 40000000000000000:7ffffffffffffffff -s 10 -t 8 -R -n 131072 -q -e
+
+
+### comando para achar o puzzle 68
+./keyhunt -m address -f tests/68.txt -r 80000000000000000:fffffffffffffffff -s 10 -t 8 -R -n 131072 -q -e
+
+### comando para achar o puzzle 67 e 68 juntos
+./keyhunt -m address -f tests/67to68.txt -r 40000000000000000:fffffffffffffffff -s 10 -t 8 -R -n 131072 -q -e
+
+
+### comando para testar em achar o puzzle 66 ( é só para testes, para ver se esta funcionando )
+### endereço 13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so
+### chave privada que deverá ser encontrada 000000000000000000000000000000000000000000000002832ed74f2b5e35ee
+./keyhunt -m address -f tests/67.txt -r 2832ed74f2b4e35ee:2832ed74f2b6e35ee -s 10 -t 8 -R -n 131072 -q -e

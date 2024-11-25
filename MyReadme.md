@@ -28,7 +28,7 @@ https://privatekeys.pw/puzzles/bitcoin-puzzle-tx
 ./keyhunt -m address -f tests/67.txt -b 67 -l compress -s -t 4 -n 1024 -R
 ./keyhunt -m address -f tests/66.txt -r:38.....:3f.....  -l compress -q -s 10 -t 20 -e
 
-//para cer o arquivo readme em portugues
+//para ver o arquivo readme em portugues
 cat README.md
 
 # Para saber quantos núcleos de processador tem um computador
@@ -41,7 +41,7 @@ Verifique o número dos núcleos.
 Verifique o número de processadores lógicos (threads).
 
 
-# usar a eletrum para trasnferir os bitcois
+# usar a eletrum para transferir os bitcois
 https://www.youtube.com/live/-RI2-6y7GWE?si=8KyCJQzRwAfH5Q99&t=526
 
 
